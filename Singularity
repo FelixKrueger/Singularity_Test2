@@ -40,6 +40,6 @@ Include: yum
   
   %environment
   #Set your toolname here and the appropriate version to have this in the metadata of your container
-    BOWTIE2=v2.3.0
+    #BOWTIE2=v2.3.0
   
 %runscript
